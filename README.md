@@ -8,9 +8,9 @@ In order to submit this assignment, all you will have to do is add a bit of info
 -----
 
 ### Information
-1. Favorite Color: TODO
-2. Favorite Food: TODO
-3. Favorite Movie: TODO
+1. Favorite Color: Turquoise
+2. Favorite Food: Pizza
+3. Favorite Movie: Catch me if you can
 
 -----
 
@@ -27,4 +27,3 @@ git push
 We'll be around to debug errors if you have them, but the lowdown is: _git add_ tells Git to track the file, _git commit_ takes all the changes you made and prepares them to get submitted to Github's servers, and _git push_ pushes all those juicy new files over to Github.
 
 Congratulations! First assignment submitted!
-
